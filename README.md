@@ -1,7 +1,7 @@
 # React Digital & Analog Clock
 
 <div align="center">
-  <img src="/api/placeholder/600/300" alt="Clock App Preview">
+  <img src="https://github.com/piyushh-k/Clock-App/blob/4c02a87cdb99e69f81e5ac99ee29bdfe16a482ee/clock.png">
   <p>A modern, interactive clock application built with React</p>
 </div>
 
